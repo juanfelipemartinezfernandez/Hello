@@ -1,2 +1,1 @@
-# Hello
-Initiating cs50
+APENAS APRENDIENDO ENTIENDES?
